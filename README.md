@@ -5,7 +5,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://carolpascott.github.io/NLW_Esports/)
+[Clique aqui para acessar](https://carolpascott.github.io/NLW_eSports/)
 
 ## Tecnologias
 - HTML
